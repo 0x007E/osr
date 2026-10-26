@@ -1,8 +1,8 @@
-[![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/srb) ![Build](https://github.com/0x007e/srb/actions/workflows/release.yml/badge.svg) [![License CC By-NC-SA](https://img.shields.io/badge/Hardware-CC--BY--NC--SA--4.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+[![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/osr) ![Build](https://github.com/0x007e/osr/actions/workflows/release.yml/badge.svg) [![License CC By-NC-SA](https://img.shields.io/badge/Hardware-CC--BY--NC--SA--4.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-# `SRB` - Shiftregister Development Board
+# `OSR` - Output Shift Register Development Board
 
-The `SRB` is a board with an [HEF4094B](#additional-information) or any other compatible shift-register that meets the pin requirements. The board itself can be driven from `5` to `15V`. The board offers the possibility to shift serial signals to a parallel output clocked by buttons or an external signal from any other logic board.
+The `OSR` is a board with an [HEF4094B](#additional-information) or any other compatible shift-register that meets the pin requirements. The board itself can be driven from `5` to `15V`. The board offers the possibility to shift serial signals to a parallel output clocked by buttons or an external signal from any other logic board.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
@@ -12,12 +12,12 @@ The `SRB` is a board with an [HEF4094B](#additional-information) or any other co
 
 | Type      | File                                                                                                                                                 | Description     |
 |:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------|
-| Schematic | [pdf](https://github.com/0x007E/srb/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/30669/main/files)                   | Schematic files |
-| Board     | [pdf](https://github.com/0x007E/srb/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/30669/main/files)                         | Board file      |
-| Drill     | [pdf](https://github.com/0x007E/srb/releases/latest/download/drill.pdf)                                                                              | Drill file      |
-| BoM | [xlsx](https://github.com/0x007E/srb/releases/latest/download/bom.xlsx) / [html](https://github.com/0x007E/srb/releases/latest/download/bom.html)          | Bill of Material as Excel/interactive HTML |
-| PCB    | [zip](https://github.com/0x007E/srb/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/srb/releases/latest/download/kicad.tar.gz)    | KiCAD/Gerber/BoM/Drill files       |
-| Mechanical | [zip](https://github.com/0x007E/srb/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/srb/releases/latest/download/freecad.tar.gz) | FreeCAD/Housing and PCB (STEP/STL) files     |
+| Schematic | [pdf](https://github.com/0x007E/osr/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/30669/main/files)                   | Schematic files |
+| Board     | [pdf](https://github.com/0x007E/osr/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/30669/main/files)                         | Board file      |
+| Drill     | [pdf](https://github.com/0x007E/osr/releases/latest/download/drill.pdf)                                                                              | Drill file      |
+| BoM | [xlsx](https://github.com/0x007E/osr/releases/latest/download/bom.xlsx) / [html](https://github.com/0x007E/osr/releases/latest/download/bom.html)          | Bill of Material as Excel/interactive HTML |
+| PCB    | [zip](https://github.com/0x007E/osr/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/osr/releases/latest/download/kicad.tar.gz)    | KiCAD/Gerber/BoM/Drill files       |
+| Mechanical | [zip](https://github.com/0x007E/osr/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/osr/releases/latest/download/freecad.tar.gz) | FreeCAD/Housing and PCB (STEP/STL) files     |
 
 # Hardware
 
@@ -29,11 +29,11 @@ The circuit board is populated on both sides (Top, Bottom). The best way for sol
 
 ### Top Layer
 
-![Top Layer](https://github.com/0x007E/srb/releases/latest/download/top.kicad.png)
+![Top Layer](https://github.com/0x007E/osr/releases/latest/download/top.kicad.png)
 
 ### Bottom Layer
 
-![Bottom Layer](https://github.com/0x007E/srb/releases/latest/download/bottom.kicad.png)
+![Bottom Layer](https://github.com/0x007E/osr/releases/latest/download/bottom.kicad.png)
 
 # Additional Information
 
