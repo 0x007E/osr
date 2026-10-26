@@ -808,13 +808,13 @@
     ]
   ],
   "text_variables": {
-    "acronym": "SRB",
+    "acronym": "OSR",
     "company": "HTL-Rankweil",
     "creator": "GAR",
     "date": "1337-13-37",
     "license": "CC BY-NC-SA 4.0",
     "link": "github.com/htl-rankweil",
     "revision": "1.0",
-    "title": "Shiftregister Board"
+    "title": "Output Shift Register"
   }
 }
