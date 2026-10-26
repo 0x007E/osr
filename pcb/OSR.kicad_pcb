@@ -12432,7 +12432,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 3.683 0 90)
+			(at 0 1.524 90)
 			(layer "B.Fab")
 			(uuid "5e47ffbd-a4b4-47ca-9eb1-a761369122e3")
 			(effects
@@ -17583,7 +17583,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 3.605 0 90)
+			(at 0.0236 -1.6002 90)
 			(layer "B.Fab")
 			(uuid "c1da43e7-76af-4708-a649-3a4c536535b5")
 			(effects
@@ -18280,7 +18280,7 @@
 			)
 		)
 		(property "Value" "MMBFJ113"
-			(at 0 -2.4 90)
+			(at -2.413 0.061 180)
 			(layer "B.Fab")
 			(uuid "5b9d1abf-d891-4e46-b1bd-78b119ca107d")
 			(effects
@@ -24576,7 +24576,7 @@
 			)
 		)
 		(property "Value" "MMBFJ113"
-			(at 0 -2.4 90)
+			(at -1.9535 -0.0152 180)
 			(layer "B.Fab")
 			(uuid "59659a3c-c227-4e83-9c1c-d85b3a32babe")
 			(effects
