@@ -12979,7 +12979,6 @@
 	(symbol
 		(lib_id "Transistor_FET:AO3400A")
 		(at 68.58 179.07 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12987,7 +12986,7 @@
 		(dnp no)
 		(uuid "45fe4f5e-70f3-4899-861c-67b2b2e7ce1b")
 		(property "Reference" "Q10"
-			(at 66.04 175.26 0)
+			(at 63.5 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12996,7 +12995,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 66.04 180.34 90)
+			(at 66.04 189.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13005,7 +13004,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 73.66 177.165 0)
+			(at 73.66 180.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13016,7 +13015,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 73.66 175.26 0)
+			(at 73.66 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13600,7 +13599,6 @@
 	(symbol
 		(lib_id "Transistor_FET:AO3400A")
 		(at 93.98 179.07 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13608,7 +13606,7 @@
 		(dnp no)
 		(uuid "4bca919a-1887-4f43-8f8b-1eecfc204f6c")
 		(property "Reference" "Q12"
-			(at 91.44 175.26 0)
+			(at 88.9 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13617,7 +13615,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 91.44 180.34 90)
+			(at 91.44 189.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13626,7 +13624,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 99.06 177.165 0)
+			(at 99.06 180.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13637,7 +13635,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 99.06 175.26 0)
+			(at 99.06 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14106,7 +14104,6 @@
 	(symbol
 		(lib_id "Transistor_FET:AO3400A")
 		(at 81.28 179.07 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14114,7 +14111,7 @@
 		(dnp no)
 		(uuid "561e17ae-1b54-4768-8f81-8cee715aa6df")
 		(property "Reference" "Q11"
-			(at 78.74 175.26 0)
+			(at 76.2 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14123,7 +14120,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 78.74 180.34 90)
+			(at 78.74 189.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14132,7 +14129,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 86.36 177.165 0)
+			(at 86.36 180.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14143,7 +14140,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 86.36 175.26 0)
+			(at 86.36 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14437,7 +14434,6 @@
 	(symbol
 		(lib_id "Transistor_FET:AO3400A")
 		(at 106.68 179.07 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14445,7 +14441,7 @@
 		(dnp no)
 		(uuid "593ff6bd-334e-4bc3-8d19-49064f7614a6")
 		(property "Reference" "Q13"
-			(at 104.14 175.26 0)
+			(at 101.6 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14454,7 +14450,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 104.14 180.34 90)
+			(at 104.14 189.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14463,7 +14459,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 111.76 177.165 0)
+			(at 111.76 180.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14474,7 +14470,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 111.76 175.26 0)
+			(at 111.76 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17348,7 +17344,6 @@
 	(symbol
 		(lib_id "Transistor_FET:AO3400A")
 		(at 144.78 179.07 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17356,7 +17351,7 @@
 		(dnp no)
 		(uuid "9274e786-5b3b-4777-991b-ca2378be06e7")
 		(property "Reference" "Q16"
-			(at 142.24 175.26 0)
+			(at 139.7 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17365,7 +17360,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 142.24 180.34 90)
+			(at 142.24 189.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17374,7 +17369,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 149.86 177.165 0)
+			(at 149.86 180.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17385,7 +17380,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 149.86 175.26 0)
+			(at 149.86 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17478,7 +17473,6 @@
 	(symbol
 		(lib_id "Transistor_FET:AO3400A")
 		(at 157.48 179.07 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17486,7 +17480,7 @@
 		(dnp no)
 		(uuid "92aa11c7-e868-4a57-b81b-d48bffb3fe37")
 		(property "Reference" "Q17"
-			(at 154.94 175.26 0)
+			(at 152.4 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17495,7 +17489,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 154.94 180.34 90)
+			(at 154.94 189.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17504,7 +17498,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 162.56 177.165 0)
+			(at 162.56 180.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17515,7 +17509,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 162.56 175.26 0)
+			(at 162.56 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19031,7 +19025,6 @@
 	(symbol
 		(lib_id "Transistor_FET:AO3400A")
 		(at 132.08 179.07 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19039,7 +19032,7 @@
 		(dnp no)
 		(uuid "b1d84647-e872-4a1e-8b76-df845e73fe05")
 		(property "Reference" "Q15"
-			(at 129.54 175.26 0)
+			(at 127 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19048,7 +19041,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 129.54 180.34 90)
+			(at 129.54 189.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19057,7 +19050,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 137.16 177.165 0)
+			(at 137.16 180.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19068,7 +19061,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 137.16 175.26 0)
+			(at 137.16 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19774,7 +19767,6 @@
 	(symbol
 		(lib_id "Transistor_FET:AO3400A")
 		(at 119.38 179.07 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19782,7 +19774,7 @@
 		(dnp no)
 		(uuid "c5c90658-7e66-4cef-af75-7c67de2724f3")
 		(property "Reference" "Q14"
-			(at 116.84 175.26 0)
+			(at 114.3 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19791,7 +19783,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 116.84 180.34 90)
+			(at 116.84 189.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19800,7 +19792,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 124.46 177.165 0)
+			(at 124.46 180.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19811,7 +19803,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 124.46 175.26 0)
+			(at 124.46 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
